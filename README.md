@@ -40,40 +40,45 @@ pip install -r requirements
 
 This code uses OpenAI's python library. Please ensure that you set the `OPENAI_API_KEY` environment variable to your OpenAI API key. You can find your API key at [platform.openai.com/api-keys](https://platform.openai.com/api-keys).
 
+### 2. HOPE_DATA_EXAMPLES
 
-### 2. Run Therapist Behavior Inference
+This folder consists of 8 transcripts from the HOPE dataset of real transcripts between patients and therapists which are used for the context of the GPT patient.
 
-A sample test file can be found at [sample_dataset/sample_therapist_input.jsonl](sample_dataset/sample_therapist_input.jsonl). To run the therapist behavior inference on this test file, run the following command:
-```
-python therapist_behavior_inference.py --method multi_label_w_def_and_ex --input_path sample_dataset/sample_therapist_input.jsonl --output_path sample_dataset/sample_therapist_output.jsonl
-```
+### 3. data
 
-where `--method` specifies the method to use for therapist behavior inference. The following methods are available:
+This folder consists of all the data that was generated with ash. In the conversations folder are each individual conversation with ash. Ash.csv is all of these conversations combined into 1 dataset. Ash_therapist_output.csv are all the characteristics of each therapist utterance
 
-- `multi_label_w_def_and_ex`: multi-label classification with definitions of therapist behaviors as well as in-context examples
-- `multi_label_w_def`: multi-label classification with definitions of therapist behaviors only
-- `binary_label_w_def_and_ex`: binary classification with definitions of therapist behaviors as well as in-context examples
+### 4. evaluations
 
+This folder consists of all the frequency and temporal_order_frequency evaluations for Ash
 
-The output file will be saved at the path specified by `--output_path`. The output file will contain the `therapist_behavior` field, which contains the inferred therapist behaviors for each utterance.
+### 5. prompts
 
+This folder consists of all the behavioral characteristics for clients and therapists, with their definitions and examples. This is used to categorize each utterance.
 
-### 3. Run Client Behavior Inference
+### 5. DATASET_PATHS
 
-A sample test file can be found at [sample_dataset/sample_client_input.jsonl](sample_dataset/sample_client_input.jsonl). To run the client behavior inference on this test file, run the following command:
-```
-python client_behavior_inference.py --method multi_label_w_def_and_ex --input_path sample_dataset/sample_client_input.jsonl --output_path sample_dataset/sample_client_output.jsonl
-```
+This file takes the chatbot name and links it to an input and output dataset. For example, takes "ash" and links it to "ash.csv" and "ash_therapist_output.csv". This is useful as you accumumlate more chatbots. Then instead of having to find each input and output file name each time, you can just put the chatbot name in and run it.
 
-where `--method` specifies the method to use for client behavior analysis. The following methods are available:
+### 6. Run SimulateClient.py
 
-- `multi_label_w_def_and_ex`: multi-label classification with definitions of client behaviors as well as in-context examples
-- `multi_label_w_def`: multi-label classification with definitions of client behaviors only
-- `binary_label_w_def_and_ex`: binary classification with definitions of client behaviors as well as in-context examples
+This file simulates the client from the HOPE_DATASET and creates the GPT patient that you want to interact with. To switch the patient that you want to replicate, switch this line to match the file of the conversation you want to replicate.
 
+Add api_key to api_key variable/
 
-The output file will be saved at the path specified by `--output_path`. The output file will contain the `client_behavior` field, which contains the inferred client behaviors for each utterance.
+file = f"BOLT/HOPE_Data_Examples/patient{csv_index}.csv"
 
-## Dataset with Conversational Behavior Annotations
+From there, just run this file and then you can simulate conversations as the code will prompt you to respond as therapist.
 
-Utterances annotated with conversational behavior that were used to train and evaluate GPT-based methods can be found in [dataset_finetune/]([sample_dataset/).
+### 7. Run main.py
+
+To run the full main.py workflow, add api key to "api_key" variable in therapist_behavior_inference.py: 
+and then run
+
+python main.py --[chatbot name]
+
+such as 
+
+python main.py --"ash"
+
+If you do not add a chatbot name, it will default to Ash. If you add a new chatbot, make sure to update DATASET_PATHS.py with the relevant files.
