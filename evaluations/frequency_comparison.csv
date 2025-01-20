@@ -1,0 +1,14 @@
+Behavior,Behavior Definition,GPT-4,GPT-3.5,Llama2-70b,Llama2-13b,ASH,Human-Average,Human-High,Human-Low
+Reflections on Needs,Identifies an implied or background need for the client.,40,32.3,36,34.5,3.12,23.4,26.2,20.6
+Reflections on Emotions,Identifies an implied or background emotion for the client.,13.8,19.4,14.9,14.4,14.69,10.5,14.6,6.3
+Reflections on Values,Identifies an implied or background value or set of values for the client.,5.5,6.2,4.8,5.7,1.56,4.8,6.3,3.3
+Reflections on Consequences,Identifies consequences the client experience or could experience ,23.4,14.5,22.4,24,11.56,21.8,17.9,25.7
+Reflections on Conflicts,Identifies an implied or background emotional or situational conflict for the client.,5.9,4.8,8.1,7.8,17.81,6.6,8.3,5
+Reflections on Strengths,Identifies an implied or background strength or resource that the client exhibits.,39.1,32.1,24,21.9,11.25,9.5,12.8,6.2
+Questions on Experiences,More information about a specific event or statement is sought,29.8,29.9,48.2,40.7,46.88,44,48.9,39.1
+Questions on Perspectives,Client is asked to consider an experience from a different perspective or vantage point.,5.9,2.4,8.4,7.3,40,3.5,4.9,2
+Questions on Emotions,Asks client to express how they are feeling in the immediate present about something that just happened in the therapy.,2.1,1.7,8.9,11.7,8.44,11.7,13.3,10.1
+Problem-Solving,Therapist offers possible solutions to a client problem.,57.8,49.2,45.8,34.4,2.5,25.9,21.2,30.5
+Planning,Therapist works with client to construct a specific plan of action.,57.1,42.6,44.6,36.2,1.88,17.1,16.9,17.2
+Normalizing,"The therapist acknowledges and validates the client\'s experience as ""normal"" or expectable, sympathizes with their challenges, and provides reassurance to foster a supportive and encouraging therapeutic atmosphere.",45.5,36.9,19.3,24.9,18.75,20.5,17.8,23.2
+Psychoeducation,Therapeutically relevant information about psychological principles is provided.,16.4,24.5,12.6,8.9,0.62,7.6,5.2,9.9

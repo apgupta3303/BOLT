@@ -1,0 +1,38 @@
+Utterance,Role,Turn,ConvID
+"I am now feeling a little bit anxious about a different party I am going to tomorrow",client,1,11
+"Another party! Tell me about this one.",therapist,2,11
+"I have to meet all of my girlfriends friends for the first time",client,3,11
+"Okay, so you're in a brand new environment, with people you haven't met before. Are you worried about making a good impression on them?",therapist,4,11
+"yes",client,5,11
+"I want to hear all about what you want them to see in you.",therapist,6,11
+"I just want them to like me as a person but they seme much more outgoing than me",client,7,11
+"Even if they're a bit more on the social side, that doesn't mean they won't! Did you have a sense of how you might try to connect with them?",therapist,8,11
+"not really i dont know too much about them or have much overlap with them",client,9,11
+"So they're brand new people. What do you know about them?",therapist,10,11
+"i just know that one went to duke and then other went to navy and they just graduated and one is trying to be a nurse. One is named Aida and the other is Giulia and they were best friends with my girlfriend Maya in high school",client,11,11
+"Got it, so she knows them really well! Have you talked to her at all about how you're feeling, or about how this might go?",therapist,12,11
+"i do not think she is worried about it because she said that they are super chill and I am so it will be fine",client,13,11
+"Great, so she thinks you'll get along well!",therapist,14,11
+"yeah",client,15,11
+"But you don't sound so sure. Do you think this is more about their personalities, or yours? Like, do you struggle with getting to know new people in general?",therapist,16,11
+"mine I am on the shyier side so I do not get along with strangers too well",client,17,11
+"Okay, so it's not so much about these particular new people. This is about how you tend to feel in situations like this. Tell me some more about being shy.",therapist,18,11
+"I just keep to myself more and am not as fun and outgoing",client,19,11
+"But you're still a good person, right? Someone who your girlfriend really values, and wants her friends to meet?",therapist,20,11
+"yeah",client,21,11
+"So even though you're shy, Maya's friends could get a lot out of meeting you! I'm curious, what do you imagine they'll think of you?",therapist,22,11
+"I just dont want them to think I am boring and be like Mayas boyfriend is weird",client,23,11
+"Ah, so you're hoping to avoid that label. But if you had to pick another one, what would you want them to say? How would you want them to describe you?",therapist,24,11
+"i would want them to say that I am fun and nice and sweet and they are happy for her",client,25,11
+"Ah, I see. You want them to see you as a partner who makes Maya happy.",therapist,26,11
+"yeah and I do but I just do not know if that will come across in this situation",client,27,11
+"Because you'll be a bit more reserved than usual?",therapist,28,11
+"yeah",client,29,11
+"I might be reading into this a bit, but could it be that you're worried that shyness will come off as disinterest?",therapist,30,11
+"Got it. You want to be fun, and you know that's not your strong suit. But what about the rest of it? Are you confident that you can be nice and sweet, even if you're not the life of the party?",therapist,31,11
+"yeah",client,32,11
+"Okay, so you know what you bring to the table, and you know that Maya loves it. I know you're feeling like you'll be boring at this party - but what do you imagine the people there will notice about you, if you're able to bring your full self?",therapist,33,11
+"that I am a nice guy",client,34,11
+"Well, worst case scenario, that's not a bad thing to be!",therapist,35,11
+"yeah thank you",client,36,11
+"And best case, they feel what Maya feels. That you're not just a nice guy, you're her nice guy.",therapist,37,11

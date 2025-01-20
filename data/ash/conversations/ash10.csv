@@ -1,0 +1,44 @@
+Utterance,Role,Turn,ConvID
+Hi Akash. I've been thinking about you since our last conversation. How are you feeling today?,therapist,1,10
+I am feeling anxious about my new years party tonight,client,2,10
+What's on your mind about it?,therapist,3,10
+I am just going to be seeing a lot of people that I have not seen in a while and I am not sure how it is going to be,client,4,10
+"Right, so there are a few unknowns here. Who's coming, just out of curiosity? Friends, family, or a mix?",therapist,5,10
+high school friends,client,6,10
+And how long has it been since you last saw them?,therapist,7,10
+some 4 years which was senior year of high school and others a little more recently,client,8,10
+"Okay, so for some of them, it might be a reunion. Are you nervous about how they'll react to you, or maybe about what they'll be like?",therapist,9,10
+i think its moreso about going back to high school stereotypes. I think I have been doing a lot better in college compared to high school,client,10,10
+Tell me more about that. What's been going better?,therapist,11,10
+I just have a better group of solid friends and a girlfriend and I am more confident in myself,client,12,10
+"Well, that's awesome! Did you ever feel like you struggled with those things earlier on?",therapist,13,10
+not consiously but I think a little bit. I started working out a lot more after Senior year which helped me get more confidence. Before that I did not really talk to girls and my friend group was less defined,client,14,10
+"So things have shifted. You're a better version of yourself now, and you're worried that being around these people would bring back that old self.",therapist,15,10
+yeah I think so,client,16,10
+"What was he like? If you had to describe him in a few words, what would you pick?",therapist,17,10
+worried too much what other people thought but was still a hard worker and nice person,client,18,10
+"A worried, hard-working, nice person. And what about now? How would you describe yourself these days?",therapist,19,10
+much more confident in myself and am comfortable doing things regardless of public perception,client,20,10
+"That's a major change! How have you managed to pull it off? I know you mentioned exercise, but I'm guessing there have been other factors, too.",therapist,21,10
+I think a lot of it started with exercise and just changed in how people perceived me. From a little bit more dorky to being more attractive and cool.,client,22,10
+"So there was a shift in how you were perceived, and that has allowed you to feel more confident in yourself.",therapist,23,10
+Yeah partly that and also just having a solid group of friends just allowed me to go try to take more risks and talk to whoever because I knew I always had my friends.,client,24,10
+"Right, so these new people have been a huge source of support. How do you think they'd describe you, if they had to? Would they use words like attractive and cool or would they focus on other things?""",therapist,25,10
+my friends would focus on like chill and easygoing,client,26,10
+"Ah, so even more evidence that you've changed! You were worried about what people thought, and now you're chill and easygoing. Let's go back to the upcoming party and the concerns you have. Where is your mind going when you think about it?",therapist,27,10
+I am just worried that some of these kids will still think they are better or more popular than me,client,28,10
+"And how would you know if that was the case? Would they say something, or act a certain way?",therapist,29,10
+"probbably just act like they are cooler, not try to talk to me etc",client,30,10
+"I see. So let's say this does happen. You show up, and they don't make an effort to talk to you. What would that mean to you?",therapist,31,10
+I guess it is not a big deal as long as I know I am better now,client,32,10
+"That's true! You're not the same as you were in high school, and you've got a lot to be proud of. That said, I know you're still uncomfortable with the idea of being looked down on. How do you think you'll handle it, if people seem dismissive?",therapist,33,10
+I do not think I will actually do anything about it but it will just upset me a little bit,client,34,10
+What do you think would upset you about it?,therapist,35,10
+that is a good question idk,client,36,10
+"Well, what if you just didn't get into it with them? Maybe you'd feel a bit hurt, but you'd also be able to enjoy the party, and spend most of your time with people who treat you well. Would that be a realistic goal?",therapist,37,10
+yeah thank you,client,38,10
+"I know this is a bit of an odd question, but what would it mean to enjoy yourself at this party?",therapist,39,10
+just have fun with my friends and reconenct with those who are nice,client,40,10
+"And you've got a solid plan for that, right? If anyone is acting too good to talk to you, you'll focus on the people who actually matter.",therapist,41,10
+yes awesome thanks,client,42,10
+"You're welcome! I know you were feeling a bit daunted by this party, but you've come up with a plan to have fun. As you look ahead, are there any other worries that come to mind?",therapist,43,10

@@ -1,0 +1,36 @@
+Utterance,Role,Turn,ConvID
+"I just feel like no matter how much I study, it's never enough. Everyone else seems so much smarter, and I'm scared of failing.",client,1,19
+"I remember you felt that way when we talked about public speaking, as well. What are you scared might happen if you fail?",therapist,2,19
+"I think if I fail, people will see me as a failure too. Like, my professors, my parents, and even my friends will think I'm not good enough. It feels like it would prove all my doubts about myself are true.",client,3,19
+"Your doubts have been pretty loud, haven't they? I mean, you were saying yesterday that you didn't feel cut out for your current job, even though it's a pretty good match for your skills. What sorts of things have you been telling yourself about school?",therapist,4,19
+"I've been telling myself that I'm not smart enough to keep up, and that no matter how hard I try, it won't be good enough. It's like I'm always behind, and I can't shake the feeling that I don't belong here.",client,5,19
+"So if I'm following, you're feeling behind, and trying your hardest isn't enough.",therapist,6,19
+"Yeah, exactly. It's like no matter how much effort I put in, it never feels like it's enough to catch up or prove that I belong here. It's exhausting.",client,7,19
+"In that case, let's dig in a bit. Why do you feel this way? Are you actually doing worse than your peers in class?",therapist,8,19
+"Not really, I guess. My grades are okay, but I see others finishing assignments faster or seeming so confident during discussions. It makes me feel like I'm barely keeping up, even if my results don't show it.",client,9,19
+"So you're looking around, and you're comparing yourself.",therapist,10,19
+"Yeah, I can't help it. It's like everyone else has it all figured out, and I'm just trying to keep my head above water. Comparing myself just makes me feel worse, but it's hard to stop.",client,11,19
+"I bet it is! What if you tried to focus on yourself, though, just for a minute? You've said that your grades are okay, but how hard are you working to keep them that way?",therapist,12,19
+"I'm working really hard. I spend hours studying every day and reviewing my notes. I guess I don't give myself much credit for the effort I'm putting in—it just feels like I should be doing even more.",client,13,19
+"How much more?",therapist,14,19
+"I don't even know. I just feel like there's always something I could be doing better or faster. It's like no matter how much I do, it doesn't feel like it's enough to really make a difference.",client,15,19
+"I mean, I know you're afraid of falling behind. But if you're already getting good grades, would pushing yourself harder really be worth it? What would you be trying to achieve?",therapist,16,19
+"I guess I'm trying to prove to myself that I'm good enough. But even when I do well, it's like I can't believe it. I feel like I have to keep pushing, or everything will fall apart.",client,17,19
+"So you've got this mental model of how much effort it should take to do well. And even when you do well, you tell yourself you should be working harder, doing more.",therapist,18,19
+"Yeah, exactly. It's like I've convinced myself that if I'm not constantly pushing harder, I'm going to fail. Even when I succeed, it doesn't feel like enough to quiet those thoughts.",client,19,19
+"And when you say 'constantly,' is that how it feels? Like there's never any downtime?",therapist,20,19
+"Yeah, that's exactly how it feels. Even when I try to relax, my mind is still racing with everything I should be doing. It's like I can't let myself rest without feeling guilty about it.",client,21,19
+"So you're having some success, but you can't enjoy it or feel enough because you feel like you should be pushing harder. Let's turn that around for a second. Imagine you were to relax, and let go of the need to prove yourself. What would change?",therapist,22,19
+"I think I'd feel less stressed, but I'm also scared that if I relax too much, everything will fall apart. Like, maybe I'd lose the progress I've made or prove to myself that I really wasn't working hard enough. It's hard to imagine letting go.",client,23,19
+"Would it help if we tried? I know you don't want to lose ground, but at the same time, you've been awfully hard on yourself. If you were a little easier, how do you think you'd react? Would it be a relief? Or would you just end up feeling more anxious?",therapist,24,19
+"I think it might be a mix of both. Part of me feels like it would be a relief to not be so hard on myself all the time, but another part worries that I'd feel guilty or anxious for not pushing as hard as I could. It's hard to know which would win out.",client,25,19
+"Right, because part of you feels like pushing is the only way to succeed. That anxiety is really serving a purpose.",therapist,26,19
+"Yeah, I guess it is. It's like the anxiety keeps me on edge, making sure I don't slack off. But at the same time, it's exhausting, and I'm not sure it's actually helping as much as I think it is.",client,27,19
+"Well, how much is it helping? I know that fear can be a pretty powerful motivator, but you've got to balance it against the costs. If you had to pick, would you say it's doing more good than harm? Or the other way around?",therapist,28,19
+"Honestly, I think it's doing more harm than good. It keeps me going, but at the cost of feeling constantly stressed and never satisfied. It's like I'm running on fumes, and I don't know how much longer I can keep it up.",client,29,19
+"Running on fumes. Tell me more about what that's been like, to be in this constant state of tension.",therapist,30,19
+"It's exhausting. I wake up already feeling stressed, and it's like I can't switch off. Even when I try to take a break, I'm thinking about what I need to do next. I don't feel like I'm really present in anything, and I'm always on edge. It's draining.",client,31,19
+"Right, and you're only human! As hard as you've been working, you can't keep this up forever. Could you see yourself taking a step back, just to see what happens? Maybe you'd find some new motivation, or a different way to focus.",therapist,32,19
+"I think I could try, but it's scary to even think about. Taking a step back feels risky, like I might lose my edge or fall behind. But maybe it's worth seeing if it helps me feel less overwhelmed.",client,33,19
+"I know feeling overwhelmed is something you're trying to avoid at all costs. But I want to point out that you're already feeling that way, even with all this effort.",therapist,34,19
+"That's true. I hadn't really thought about it like that. I'm putting in all this effort to avoid feeling overwhelmed, but I'm already there. Maybe taking a step back wouldn't make things worse—maybe it could actually help.",client,35,19

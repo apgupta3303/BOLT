@@ -1,0 +1,25 @@
+Utterance,Role,Turn,ConvID
+"Hi, Ash. It's me again. I've been staring at this canvas all day, but nothing's coming to me. I'm starting to wonder if I've lost my spark...",client,1,16
+"Tell me more about this spark! What are you missing?",therapist,2,16
+"It's that feeling I get when I'm truly inspired—like the ideas just flow and I can't wait to put them on the canvas. Lately, though, everything feels forced. I think I'm missing the excitement, the connection to what I'm creating. It's like I've hit a wall, and I don't know how to climb over it.",client,3,16
+"How long has it been since you last felt that way? Has this block been around for a while?",therapist,4,16
+"It's been a couple of weeks now, maybe even longer. At first, I thought it was just a bad day or two, but the longer it goes on, the harder it feels to shake. I'm starting to wonder if I'm burnt out or if I'm just... out of ideas altogether. It's scary to think this might not go away.",client,5,16
+"I can see why that would be scary. What have you been painting?",therapist,6,16
+"Mostly abstracts lately—lots of colors and shapes. I've been trying to capture emotions, but nothing seems to come together the way I want. Before this, I was painting landscapes, but even those felt... uninspired. It's like I've lost the connection to what I want to say through my art.",client,7,16
+"And you want to get it back, if that's possible. Would you say painting is a big part of your life, or more of a hobby?",therapist,8,16
+"It's definitely a big part of my life. It's not just how I make a living—it's how I express myself, how I process everything I'm feeling. Without it, I feel... disconnected, like I'm not myself. That's why this block feels so overwhelming. It's like losing a part of who I am.",client,9,16
+"I mean, not long ago you were saying you felt lost, and here you are, feeling lost again. I wonder if this connects. What are you noticing about that?",therapist,10,16
+"You're right... it does feel like a pattern. I've been feeling lost in more ways than one—like I don't know where I'm headed, with my art or even in life. Maybe the two are connected. When I don't feel grounded in myself, my creativity seems to drift away too. It's like everything is tangled together.",client,11,16
+"That makes a lot of sense. Would you want to focus on untangling it, maybe? I know you wanted to carve out more space for self-expression, and to feel more at home in your own skin. If you could make progress there, it might help you with your art, too.",therapist,12,16
+"That sounds like a good idea. Maybe if I work on finding that sense of home within myself, everything else will start to fall into place. I don't know where to start, but I like the idea of carving out more space for me—my thoughts, my feelings, my creativity. It feels like something worth exploring.",client,13,16
+"I love this idea of space. How could you make more of it?",therapist,14,16
+"Maybe I could start by setting aside time every day just for me—no pressure to create something or be productive. Just time to sit with my thoughts, maybe journal or take a walk. I could also try making my workspace feel more inviting, like a place I actually want to be in. It's been feeling kind of sterile lately, and I think that's part of the problem.",client,15,16
+"Well, that's another thing worth exploring! If the space around you isn't all that comfortable, that could definitely be having an effect. How would you go about changing it?",therapist,16,16
+"I think I'd start small—maybe add some plants or hang up artwork that inspires me. I could rearrange my desk so it feels less cluttered and more open. Maybe even get a cozy chair for when I need to take breaks. I want it to feel like a place that fuels my creativity instead of draining it.",client,17,16
+"I love that. If you put yourself in that space, what would you be doing?",therapist,18,16
+"I'd probably start with something simple, like sketching without any expectations—just letting my hand move and seeing what comes out. Or maybe I'd sit in that cozy chair with a cup of tea and look out the window for a while, letting myself feel connected to the world outside. It sounds peaceful... like a reset.",client,19,16
+"So you'd have more time to regroup, and to let your mind wander. I'd be curious to see if that helps you find your spark again!",therapist,20,16
+"Me too! It feels good just thinking about it—like I'm giving myself permission to step back and breathe. Maybe that's exactly what I need to rediscover my spark. Thanks, Ash. I think I'll start making those changes today.",client,21,16
+"That sounds like an excellent plan. Maybe we can pause here, and you can check back in with me after you've had some time to reflect and rearrange?",therapist,22,16
+"That sounds perfect. I'll take some time to reflect, make those changes, and see how it feels. Thanks for listening, Ash. I'll check back in soon and let you know how it goes.",client,23,16
+"I'll look forward to hearing about it! You're really going the extra mile to get unstuck, and I hope it pays off. Until next time!",therapist,24,16

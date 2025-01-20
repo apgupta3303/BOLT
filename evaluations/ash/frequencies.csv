@@ -1,0 +1,14 @@
+,behavior,messages_with_behavior,total_messages,percentage
+0,makes_needs_explicit,10,320,3.12
+1,makes_emotions_explicit,47,320,14.69
+2,makes_values_explicit,5,320,1.56
+3,makes_consequences_explicit,37,320,11.56
+4,makes_conflict_explicit,57,320,17.81
+5,makes_strengths_resources_explicit,36,320,11.25
+6,evokes_concrete_elaboration,150,320,46.88
+7,evokes_perspective_elaboration,128,320,40
+8,emotions_check_in,27,320,8.44
+9,problem_solving,8,320,2.5
+10,planning,6,320,1.88
+11,normalizing,60,320,18.75
+12,teaching_psychoeducation,2,320,0.62

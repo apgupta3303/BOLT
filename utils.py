@@ -3,102 +3,120 @@ import os
 import json
 import csv
 import pandas as pd
-import openai
+from openai import OpenAI
 from tqdm import tqdm
 import codecs
-
+from typing import List, Dict, Any, Optional
 
 model = 'gpt-4'
 
-def read_prompt_csv(role):
-  if role == 'therapist':
-     filename = 'prompts/therapist_prompts.csv'
-  if role == 'client':
-      filename = 'prompts/client_prompts.csv'
-  df = pd.read_csv(filename)
-  intent_detail_list = []
-  for index, row in df.iterrows():
-      positive_examples = [row['positive example 1'].strip(),row['positive example 2'].strip(), row['positive example 3'].strip()]
-      negative_examples = [row['negative example 1'].strip(), row['negative example 2'].strip(), row['negative example 3'].strip()]
-      intent_detail_list.append({'intent': row['intent'].strip(),'definition': row['definition'].strip(),'positive_examples': positive_examples, 'negative_examples': negative_examples})
-  return intent_detail_list
+def read_prompt_csv(role: str) -> List[Dict[str, Any]]:
+    """
+    Read and parse prompts from CSV files based on role.
+    
+    Args:
+        role: Either 'therapist' or 'client'
+    Returns:
+        List of dictionaries containing intent details
+    """
+    if role not in ['therapist', 'client']:
+        raise ValueError("Role must be either 'therapist' or 'client'")
+        
+    filename = f'prompts/{role}_prompts.csv'
+    
+    if not os.path.exists(filename):
+        raise FileNotFoundError(f"Could not find prompts file: {filename}")
+        
+    df = pd.read_csv(filename)
+    intent_detail_list = []
+    
+    for _, row in df.iterrows():
+        positive_examples = [
+            row['positive example 1'].strip(),
+            row['positive example 2'].strip(), 
+            row['positive example 3'].strip()
+        ]
+        negative_examples = [
+            row['negative example 1'].strip(),
+            row['negative example 2'].strip(),
+            row['negative example 3'].strip()
+        ]
+        intent_detail_list.append({
+            'intent': row['intent'].strip(),
+            'definition': row['definition'].strip(),
+            'positive_examples': positive_examples,
+            'negative_examples': negative_examples
+        })
+    
+    return intent_detail_list
 
 
-def get_completion_from_messages(messages, temperature=0.7):
-    openai.api_key = os.environ["OPENAI_API_KEY"]
-    time.sleep(1)
-    for i in range(3):
-        try:
-            response = openai.ChatCompletion.create(
-                                            model=model,
-                                            messages=messages,
-                                            temperature=temperature, 
-                                        )
-            return response.choices[0].message["content"]
-        except:
-            time.sleep(3*(2**i))
-            pass
-    return ''
+def format_intents(intent_map_list, examples = True):
+    formatted_string = ""
+    for intent in intent_map_list:
+        # Add the definition to the string
+        formatted_string += f'{intent["intent"]}: {intent["definition"]}\n'
 
+        # Loop through each example and add it to the string, numbered
+        if examples:
+            formatted_string += f'True Examples of {intent["intent"]} \n'
 
-def create_message(intent_detail_list, method, utterance, curr_intent=None):
-   intent_name_list = [intent_detail['intent'] for intent_detail in intent_detail_list]
-   intent_name_text = ', '.join(f'"{word}"' for word in intent_name_list)
-   
-   if method == 'multi_label_w_def':
-      intent_definition_list = []
-      for intent_detail in intent_detail_list:
-        intent_text = intent_detail['intent']
-        definition_text = intent_detail['definition'].replace("\\","")
-        intent_definition_list.append(f' {intent_text}: {definition_text}')
-      user_prompt_template = f"What are all possible intents of this utterance: {utterance}?\
-                          Intent:\n {';'.join(intent_definition_list)}\
-                          Only choose from this list: [{intent_name_text}]\
-                          Please say unknown only if cannot find answer in the list. Format:[intents_list]"
-      
-      messages = [{'role': 'user', 'content': user_prompt_template}]
-      return messages
-   
-   if method == 'multi_label_w_def_and_ex':
-      intent_definition_with_examples_list = []
-      for intent_detail in intent_detail_list:
-        intent_text = intent_detail['intent']
-        definition_text = intent_detail['definition'].replace("\\","")
-        positive_example_list = intent_detail['positive_examples']
+            for index, example in enumerate(intent["examples"], start=1):
+                formatted_string += f'  {index}. {example}\n'
 
-        intent_definition_with_examples_list.append(f' {intent_text}: {definition_text} Positive examples: {positive_example_list}')
-      user_prompt_template = f"What are all possible intents of this therapist utterance: {utterance}?\
-                                Intent:\n {';'.join(intent_definition_with_examples_list)}\
-                                Only choose from this list [{intent_name_text}]\
-                                Please say unknown only if cannot find answer from the list. Format:[intents_list]"
-      messages = [{'role': 'user', 'content': user_prompt_template}]      
-      return messages
-   
-   if method == 'binary_label_w_def_and_ex':
-      messages = []
-      for intent_detail in intent_detail_list:
-        if intent_detail['intent'] != curr_intent:
-          continue
-        intent_text = intent_detail['intent']
-        definition_text = intent_detail['definition'].replace("\\","")
-        positive_example_list = intent_detail['positive_examples']
-        negative_example_list = intent_detail['negative_examples']
-        system_prompt_template = f"Intent: {intent_text}\n Definition: {definition_text}\n Classify as either Yes or No."
-        messages = [{'role': 'system', 'content': system_prompt_template}]
+        # Add a newline for spacing between entries
+        formatted_string += '\n'
 
-        # alternative examples
-        example_label_list = []
-        for example in positive_example_list[:2]:
-          example_label_list.append((example,"Yes"))
-        for example in negative_example_list[:2]:
-          example_label_list.append((example,"No"))
-        example_label_list.append((positive_example_list[2],"Yes"))
-        example_label_list.append((negative_example_list[2],"No"))
-        for example, label in example_label_list:
-          user_utterance_template = f"Utterance: {example}"
-          assistant_template = f"{label}"
-          messages.append({'role': 'user', 'content': user_utterance_template})
-          messages.append({'role': 'assistant', 'content': assistant_template})
-        messages.append({'role': 'user', 'content': utterance})
+    return formatted_string
 
-      return messages
+def get_multi_label_w_def_and_ex(intent_name_text, intent_detail_list):
+    intent_definition_with_examples_map = [
+            {
+                "intent": detail['intent'],
+                "definition": detail['definition'].replace("\\", ""),
+                "examples": detail['positive_examples']
+            }
+            for detail in intent_detail_list
+        ]
+        
+    formatted_intent = format_intents(intent_definition_with_examples_map)
+
+    content = f"""You are a classifier that identifies intents in therapist utterances.
+        Here are the possible intents and their definitions:
+        
+        {formatted_intent}
+        
+        Set all of these that are exhibited to True [{intent_name_text}].
+        
+        """
+    
+    result =  [{
+        'role': 'system',
+        'content': content
+    }]
+    print("SYSTEM:")
+    print(content)
+    print()
+    return result
+
+def get_multi_label_w_def(intent_name_text, intent_detail_list):
+    intent_definition_with_examples_map = [
+            {
+                "intent": detail['intent'],
+                "definition": detail['definition'].replace("\\", "")
+            }
+            for detail in intent_detail_list
+        ]
+        
+    formatted_intent = format_intents(intent_definition_with_examples_map, examples=False)
+    
+    return [{
+        'role': 'system',
+        'content': f"""You are a classifier that identifies intents in therapist utterances.
+        Here are the possible intents and their definitions:
+        
+        {formatted_intent}
+        
+        Only choose from this list [{intent_name_text}]"""
+    }]
+

@@ -1,2 +1,8 @@
 openai==0.28.0
 pandas==2.2.0
+tqdm==4.65.0
+pydantic==1.10.2
+argparse==1.4.0
+logging==0.5.1.2
+codecs==1.0.3
+pathlib==1.0.1

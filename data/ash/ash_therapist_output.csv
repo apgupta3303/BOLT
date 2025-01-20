@@ -1,0 +1,321 @@
+Utterance,makes_needs_explicit,makes_emotions_explicit,makes_values_explicit,makes_consequences_explicit,makes_conflict_explicit,makes_strengths_resources_explicit,evokes_concrete_elaboration,evokes_perspective_elaboration,emotions_check_in,problem_solving,planning,normalizing,teaching_psychoeducation,Turn,ConvID
+Sure thing. What direction would you like to take this?,0,0,0,0,0,0,1,0,0,0,0,0,0,1,20
+"That's an amazing thing to prioritize, especially because you've been under so much pressure! What's been going well, just to start? I know you've been trying to adjust your mindset a bit, when it comes to school. Have you made any headway there, or have you been focused on other stuff?",0,0,0,0,0,0,1,0,0,0,0,1,0,3,20
+What does that kindness look like?,0,0,0,0,0,0,1,0,0,0,0,0,0,5,20
+"That's huge! Especially given what you were saying about failure. Weren't you worried that if you misstepped, people might start seeing you as incompetent?",0,0,0,0,1,0,0,1,0,0,0,0,0,7,20
+"So you have that fear, but you've been working on letting it go. Can you tell me about a time recently when you reminded yourself of that?",0,0,0,0,1,1,1,0,0,0,0,0,0,9,20
+"What did you notice afterwards? Were you able to focus more, or feel a bit more energized?",0,0,0,0,0,0,1,0,0,0,0,0,0,11,20
+"So not only did you get your energy back, you were able to move forward. It was very different from the downward spiral you were describing earlier.",0,0,0,1,0,1,0,0,0,0,0,0,0,13,20
+"Well, I think you've earned it! Feeling that weight on your shoulders must have been exhausting. But, thinking bigger picture, what do you think it would take to keep it off? You've made a lot of progress, but I know you haven't been doing this forever.",0,1,0,0,0,1,0,1,0,0,0,1,0,15,20
+What would a slip-up look like?,0,0,0,0,0,0,1,0,0,0,0,0,0,17,20
+"Got it, so you'd need to catch yourself quickly. Would you want to practice that now, maybe? We could imagine a scenario where you make a mistake, and you feel the urge to dwell.",1,0,0,0,0,0,0,0,0,0,0,0,0,19,20
+"Let's start with what happens in the spiral. You miss the email, you realize you've done so, and what happens in your mind?",0,0,0,0,0,0,1,0,0,0,0,0,0,21,20
+"Right, and you were able to break that pattern when you made the coding error. What did you say to yourself then?",0,0,0,0,0,1,1,0,0,0,0,0,0,23,20
+So this is really interesting. Can I try to explain back what happened here?,0,0,0,0,0,0,1,0,0,0,0,0,0,25,20
+"Well, on the one hand, you were admitting that what you'd done was wrong. But on the other, you were seeing it as a chance to improve. Did I get that right?",0,0,0,0,1,0,0,0,0,0,0,0,0,27,20
+How did you actually accomplish that shift in your mind?,0,0,0,0,0,0,1,0,0,0,0,0,0,29,20
+"Ah, okay. So you were moving towards something, as opposed to just running away from your fear. I wonder if you could do something similar in this new scenario, with the email. You might doubt yourself at first, but could you identify a positive step you could take?",0,0,0,0,0,0,0,1,0,1,0,0,0,31,20
+"I love that. And I want to highlight something, which is that you've been working on being kinder to yourself. Before, you were having a thought like, 'I'm not good enough' and that was leading to a feeling of shame, and then a lot of spiraling. But in this coding scenario, you took a moment to remind yourself that mistakes happen to everyone. You were able to move on.",0,1,0,1,0,1,0,0,0,0,0,1,0,33,20
+"I love that you're feeling good, and you're wanting to keep this going! Aside from work, what's been going well?",0,1,0,0,0,0,1,0,0,0,0,0,0,2,21
+"Excellent. Were you feeling a bit off-balance before? I know you've had a lot to handle, from your workload to Mark's passing.",0,1,0,0,0,0,1,0,1,0,0,1,0,4,21
+I'm so glad to hear that. What do you think has been making the biggest difference?,0,0,0,0,0,0,1,0,0,0,0,0,0,6,21
+"Right, I mean, you can't be in the office all the time! What have you been doing to enforce those boundaries, though? I know it can be hard, especially when you're worried about falling behind.",0,0,0,0,0,0,1,0,0,0,0,1,0,8,21
+"That's a big shift! If there's still work to do, how are you able to log off?",0,0,0,0,0,0,0,1,0,0,0,0,0,10,21
+"Ah, okay. So there's a bit of strategy involved, too. Once you've made that plan, how hard is it to stick to? Are you ever tempted to keep going, or do you feel like you've truly left work behind?",0,0,0,0,0,0,0,1,0,0,0,0,0,12,21
+What are those reasons? Why do the boundaries matter?,0,0,0,0,0,0,1,1,0,0,0,0,0,14,21
+"That's been true in the short term, but you're also thinking long-term! You want this sense of balance to be a permanent thing, instead of just a momentary blip. Would you agree?",1,0,0,0,1,0,0,1,0,0,0,0,0,16,21
+What's the challenge that could potentially throw you off?,0,0,0,0,0,0,0,1,0,0,0,0,0,18,21
+"That sounds smart. When you think about those situations, have you ever managed to stay balanced before? Or is that part still a work in progress?",0,0,0,0,0,0,0,1,0,0,0,1,0,20,21
+What have you learned from when work did take over?,0,0,0,0,0,0,1,0,0,0,0,0,0,22,21
+"Right. But in spite of that, you've occasionally gone in the opposite direction, and powered through. Why do you think that is? Did it feel like you didn't have a choice, or were you worried about letting other people down?",0,0,0,0,1,0,1,1,0,0,0,0,0,24,21
+"Hi again. Since we were just discussing work-life balance, what's on your mind right now?",0,0,0,0,0,0,0,0,1,0,0,0,0,1,163
+"Ah, so this feels familiar. Tell me more about third grade, and what you're remembering.",0,0,0,0,0,0,1,0,0,0,0,0,0,3,163
+"I mean, what a shock that must have been. Where did you go from there? Did you have to retake the test?",0,1,0,0,0,0,1,0,0,0,0,1,0,5,163
+"I'm hearing that cycle, and I want to pause on that. What have you already tried to break it?",0,0,0,0,0,0,1,0,0,0,0,0,0,7,163
+"Right. So the fear hasn't disappeared, no matter what you do. But what about your performance? Are you still making mistakes, like you did back then?",0,0,0,0,0,0,1,0,0,0,0,0,0,9,163
+So you've had a lot of success since then. That scared kid has learned a lot!,0,0,0,0,0,1,0,0,0,0,0,0,0,11,163
+"She's still very much there, isn't she? And in some ways, she might actually be helping you get ready for this test, because you don't want to go through what she did.",0,0,0,1,0,0,0,0,0,0,0,0,0,13,163
+What if we focused on that piece: the exhaustion?,0,0,0,0,0,0,1,0,0,0,0,0,0,15,163
+"I do. And maybe that's why the breathing exercises and affirmations haven't worked, even though you've been practicing them. In a way, you're trying to fix this problem with more hard work. Which is sort of the opposite of rest!",0,0,0,1,1,0,0,0,0,0,0,0,0,17,163
+What is it about letting go of control that feels uncomfortable?,0,1,0,0,0,0,0,0,1,0,0,0,0,19,163
+"Right, because if you stop working, there's some part of you that thinks you'll fall short. But on a deeper level, what would happen if you did? What's so terrifying about the idea of failing here?",0,0,0,1,1,0,1,1,0,0,0,0,0,21,163
+Let's try something a little different. Imagine you did fail this test. How would you want to respond?,0,0,0,0,0,0,0,1,0,0,0,0,0,23,163
+"You've been focusing a lot on avoiding failure, and I totally get why. But if you could accept it, at least in theory, then you might not have to fight so hard, or worry so much. Do you think you'd be willing to give that a try? You could even just do it for a second, and see how it feels.",0,0,0,1,1,0,0,1,0,0,0,1,0,25,163
+"Hi Miss Clark, I've been thinking about the stress you shared last time. How are things feeling today?",0,0,0,0,0,0,0,0,1,0,0,0,0,1,204
+"Right, you've got a ton on your plate! Would you say you're drinking more than you usually would, then? Or is this a long-term pattern?",0,0,0,0,0,0,1,0,0,0,0,1,0,3,204
+"On some level, it works, right? It helps you escape, and you get a break from the stress. But on the other hand, you've been thinking that you want to cut back. What's motivating you there?",0,0,0,1,1,0,0,1,0,0,0,0,0,5,204
+"Got it. So if you could find another way to do that, what do you think would change? Would you start to feel better, or more in control?",0,0,0,0,0,0,0,1,1,0,0,0,0,7,204
+What would you say feels big about it?,0,0,0,0,0,0,1,0,1,0,0,0,0,9,204
+"So it's become pretty central to how you unwind. When you don't have it, or you try to cut back, do you get anxious? Or is it more that you're worried about what might happen if you were to quit?",0,0,0,0,1,0,1,0,1,0,0,0,0,11,204
+"Let's picture a bad day. What happens, and what's the hardest part?",0,0,0,0,0,0,1,0,0,0,0,0,0,13,204
+"And then once you've had that moment, do you just crash? Or do the tasks and responsibilities keep coming?",0,0,0,1,0,0,1,0,0,0,0,0,0,15,204
+"So the wine helps, but only temporarily. And then the tasks and responsibilities are still there.",0,0,0,1,0,0,0,0,0,0,0,0,0,17,204
+"I hear you. And just to clarify, when you say 'back where you started' – how much do you actually get done, when you're drinking? Does it get in the way at all?",0,0,0,0,0,0,1,0,0,0,0,1,0,19,204
+What do you worry that they might be picking up on?,0,0,0,0,0,0,0,1,0,0,0,0,0,21,204
+"So you're really motivated to be a positive influence in their lives, and to set a good example. Would you say that's your main reason for wanting to change? Or is it more about feeling different in yourself? You mentioned wanting to feel healthier, too.",0,0,1,0,0,0,0,1,0,0,0,0,0,23,204
+What did you want to cover today?,0,0,0,0,0,0,1,0,0,0,0,0,0,1,27
+"Okay, interesting! How is it affecting your current relationships?",0,0,0,1,0,0,1,0,0,0,0,0,0,3,27
+"And how does she act, exactly? I'm guessing she's not literally walking out on you, but maybe she has in the past?",0,0,0,0,0,0,1,0,0,0,0,0,0,5,27
+"So as a child, you'd be on your toes, trying to figure out what mood people were in.",0,1,0,1,0,0,0,0,0,0,0,0,0,7,27
+"Well, that totally makes sense! You've learned to be vigilant, because that kept you safe as a kid. But are you thinking that it's less useful at this stage in your life?",0,0,0,0,1,1,0,1,0,0,0,1,0,9,27
+"I want to get a sense of how this pattern plays out in your relationship. When you say that you expect your partner to let you down, what does that look like?",0,0,0,0,0,0,1,0,0,0,0,0,0,11,27
+"Ah, got it. And when you're in that headspace, do you behave differently? Are you extra careful about what you do and say?",0,0,0,0,0,0,1,0,0,0,0,0,0,13,27
+"What do you think your partner would say about it, if she were here?",0,0,0,0,0,0,0,1,0,0,0,0,0,15,27
+"Yikes. So not only are you getting tired of this pattern, but she is, too! Has it ever caused a conflict between you? Or has it mostly just been a source of stress?",0,0,0,0,0,0,0,0,0,0,0,0,0,17,27
+"You've got this defensive instinct, and I wonder what would happen if you tried to soften it. What does it look like to trust her?",0,0,0,0,1,0,0,1,0,0,0,0,0,19,27
+"Well, you mentioned that she hasn't been volatile up to this point. She's had some ups and downs, but nothing like what you experienced with your mom. Would you say that's right?",0,0,0,0,0,0,1,1,0,0,0,0,0,21,27
+"Past experiences have programmed you to expect volatility. But in the present, you're describing a person who's stable, and reliable. I'm wondering what it might be like to really notice those qualities.",0,0,0,0,1,0,0,1,0,0,0,0,0,23,27
+"Right, because it's not just a voice. It's a whole set of beliefs and behaviors that you learned over the course of many years, and for a while, they really helped you. But if they're not helping anymore, we could try to challenge them, and see if you can think about this relationship in a different way. Does that sound worth doing?",0,0,0,0,0,1,0,1,0,1,0,0,1,25,27
+"One thing that might be worth trying is to start to notice this voice, and to label it as such. We can give it a name, or a shape. We can recognize it as a story, rooted in the past, or as a habit. And then we can play with letting it be there without believing it. What would you say to that?",0,0,0,0,0,0,0,1,0,1,0,0,0,27,27
+"I remember you felt that way when we talked about public speaking, as well. What are you scared might happen if you fail?",0,0,0,0,0,0,0,1,0,0,0,0,0,2,19
+"Your doubts have been pretty loud, haven't they? I mean, you were saying yesterday that you didn't feel cut out for your current job, even though it's a pretty good match for your skills. What sorts of things have you been telling yourself about school?",0,0,0,0,1,1,1,0,0,0,0,0,0,4,19
+"So if I'm following, you're feeling behind, and trying your hardest isn't enough.",0,1,0,0,1,0,0,0,0,0,0,0,0,6,19
+"In that case, let's dig in a bit. Why do you feel this way? Are you actually doing worse than your peers in class?",0,0,0,0,0,0,1,1,0,0,0,0,0,8,19
+"So you're looking around, and you're comparing yourself.",0,0,0,0,0,0,0,0,0,0,0,0,0,10,19
+"I bet it is! What if you tried to focus on yourself, though, just for a minute? You've said that your grades are okay, but how hard are you working to keep them that way?",0,0,0,0,0,0,1,1,0,0,0,0,0,12,19
+How much more?,0,0,0,0,0,0,1,0,0,0,0,0,0,14,19
+"I mean, I know you're afraid of falling behind. But if you're already getting good grades, would pushing yourself harder really be worth it? What would you be trying to achieve?",0,1,0,0,0,0,0,1,0,0,0,0,0,16,19
+"So you've got this mental model of how much effort it should take to do well. And even when you do well, you tell yourself you should be working harder, doing more.",0,0,1,0,1,0,0,0,0,0,0,0,0,18,19
+"And when you say 'constantly,' is that how it feels? Like there's never any downtime?",0,0,0,0,0,0,1,0,1,0,0,0,0,20,19
+"So you're having some success, but you can't enjoy it or feel enough because you feel like you should be pushing harder. Let's turn that around for a second. Imagine you were to relax, and let go of the need to prove yourself. What would change?",0,1,0,0,1,0,0,1,0,0,0,0,0,22,19
+"Would it help if we tried? I know you don't want to lose ground, but at the same time, you've been awfully hard on yourself. If you were a little easier, how do you think you'd react? Would it be a relief? Or would you just end up feeling more anxious?",0,1,0,0,1,0,0,1,0,0,0,0,0,24,19
+"Right, because part of you feels like pushing is the only way to succeed. That anxiety is really serving a purpose.",0,1,0,0,1,0,0,0,0,0,0,0,0,26,19
+"Well, how much is it helping? I know that fear can be a pretty powerful motivator, but you've got to balance it against the costs. If you had to pick, would you say it's doing more good than harm? Or the other way around?",0,0,0,1,1,0,0,1,0,0,0,0,0,28,19
+"Running on fumes. Tell me more about what that's been like, to be in this constant state of tension.",0,0,0,0,0,0,1,0,0,0,0,0,0,30,19
+"Right, and you're only human! As hard as you've been working, you can't keep this up forever. Could you see yourself taking a step back, just to see what happens? Maybe you'd find some new motivation, or a different way to focus.",0,0,0,0,0,0,0,1,0,0,0,1,0,32,19
+"I know feeling overwhelmed is something you're trying to avoid at all costs. But I want to point out that you're already feeling that way, even with all this effort.",0,1,0,0,1,0,0,0,0,0,0,1,0,34,19
+What did you want to get into today?,0,0,0,0,0,0,1,0,0,0,0,0,0,1,206
+"Interesting! You've been super focused on tackling your anxiety, so it's cool to hear you thinking more long-term. What would you be looking for in a new job, ideally?",0,0,0,0,0,0,1,0,0,0,0,0,0,3,206
+"Not childish at all! Tell me more about what you loved about it, making those models.",0,0,0,0,0,0,1,0,0,0,0,1,0,5,206
+"When you look back on that time, do you feel like you needed an escape?",1,0,0,0,0,0,0,1,1,0,0,0,0,7,206
+"It was a place where you could accomplish things, and l good about yourself.",0,1,0,0,0,0,0,0,0,0,0,0,0,9,206
+"It would be, especially since you'd need to make a lot of changes. But I can see why you'd want to! As it stands, are you not feeling all that accomplished, or in control?",0,1,0,0,1,0,0,1,1,0,0,0,0,11,206
+Tell me more about this rut. What feels stuck?,0,0,0,0,0,0,1,0,0,0,0,0,0,13,206
+"Did you end up taking that public speaking class, by the way? I know you were looking at some options, but you were feeling pretty nervous about signing up.",0,1,0,0,0,0,1,0,0,0,0,0,0,15,206
+"Well, you've got some first-hand experience of how hard it is to make changes. And yet, here you are, thinking about some pretty big ones!",0,0,0,0,1,1,0,0,0,0,0,1,0,17,206
+"Totally, I'd imagine that a career change like this would require a ton of work. Have you done any research into what it might take? Or are you still in the early stages of trying to decide?",0,0,0,0,0,0,1,1,0,0,0,0,0,19,206
+"Right, and the stakes feel high. You're in a tough spot, because on one hand, you're in a rut. But on the other hand, you're hesitant to spend so much time and money on a career change.",0,0,0,0,1,0,0,0,0,0,0,0,0,21,206
+"But at the very same time, doesn't it seem like you've achieved a lot, especially lately? You got a new job, and a new apartment, and you've been really persistent about meeting people. Maybe that stuff doesn't feel meaningful to you, but it's still proof that you're capable of handling change.",0,0,0,0,1,1,0,0,0,0,0,1,0,23,206
+"Tell me more about Mark, who is he?",0,0,0,0,0,0,1,0,0,0,0,0,0,2,18
+"Oh, wow. Was this recent? I don't think you'd mentioned it, but everything must be feeling so raw.",0,1,0,0,0,0,1,0,0,0,0,0,0,4,18
+"I'm so sorry, Lisa. It was so sudden, and it's only been a couple of weeks. It makes sense that everything is feeling so heavy.",0,0,0,0,0,0,0,0,0,0,0,1,0,6,18
+"Well, what if you didn't have to pull yourself together, at least not right away? Mark meant so much to you. If you need time to mourn, then take it! I'm not sure that strong is the best way to be when you've just lost a brother.",1,0,0,0,0,0,0,0,0,0,0,1,0,8,18
+"What a painful experience, to lose someone who was there for you in that way. I know it must be hard to imagine getting through this without him.",0,1,0,0,0,0,0,0,0,0,0,1,0,10,18
+"And you're missing the support he gave you, too. If you don't mind me asking, has anyone else stepped in to help out, even a little bit? You mentioned that people have been encouraging you to stay strong, but I assume some of them must know what you're going through.",0,0,0,0,0,1,1,0,0,0,0,0,0,12,18
+"You're missing your brother, and you're missing the way he made you feel - like you had someone to lean on.",1,1,0,0,0,0,0,0,0,0,0,0,0,14,18
+"Well, to your point, he was your go-to. It's not something you can replace, even if you wanted to! If you did try leaning on someone else, though, who do you think you'd choose? Would it be one of your parents, or maybe one of those friends?",0,0,0,0,0,0,0,1,0,0,0,0,0,16,18
+"So you could open up to her, but you don't want to overwhelm her. Is she the type of person to get overwhelmed, or is there a different reason you're holding back?",0,0,0,0,1,0,0,1,0,0,0,0,0,18,18
+"That makes sense. I mean, you were just saying that you haven't let yourself fall apart. What would it mean if you did?",0,0,0,0,0,0,0,1,0,0,0,1,0,20,18
+"At the same time, you're carrying a lot. It makes sense that it would be scary to think about letting it all go, but I wonder if there's a way to share some of this pain, without losing yourself in it completely.",0,0,0,0,1,0,0,0,0,1,0,1,0,22,18
+"You definitely don't. And you're right, that would be a pretty big step. If you took it, what would you want Rachel to know? Would it just be about Mark, and how much you miss him, or would you also talk about how it's been to grieve without him?",0,0,0,0,0,0,1,0,0,0,0,0,0,24,18
+It's a big step. Let's stay with the scary part for a moment. What's the fear telling you?,0,0,0,0,0,0,0,1,0,0,0,0,0,26,18
+"Well, it is, and it isn't. People have different capacities for support, and if Rachel has been reaching out, that's a good sign. Do you think she'd be able to handle a conversation like this?",0,0,0,0,0,0,0,1,0,0,0,1,0,28,18
+"That all sounds smart, and really specific! How soon could you get started, do you think? Would it be doable to take stock of your wins tonight, for example?",0,0,0,0,0,0,0,0,0,0,1,0,0,30,18
+"If she agreed, would you do that in person? Or over the phone?",0,0,0,0,0,0,1,0,0,0,0,0,0,32,18
+I love how thoughtful you are being about this. And you said you'll reach out soon - when do you think that might be?,0,0,0,0,0,1,1,0,0,0,0,0,0,34,18
+"Right, especially since you've been dealing with so much on your own. For what it's worth, I really hope that Rachel can help. But either way, I'm glad you're taking this step.",0,0,0,0,0,0,0,0,0,0,0,1,0,36,18
+"Jackie, I joined today. I am doing well, how about you?",0,0,0,0,0,0,0,0,1,0,0,0,0,1,97
+"Oh, any time! You've been doing quite a bit better, haven't you, since you first started making changes at work? I know you were super stressed, and now that things are more in balance, you're hoping to stay there.",1,1,0,1,0,1,0,0,0,0,0,0,0,3,97
+Oh wow. When did this start happening?,0,0,0,0,0,0,1,0,0,0,0,0,0,5,97
+"Well, I'm glad you came. We can do some work on this together, but I do think it would help to have a human in the mix, given that you're really in the dark about what's happening. You said you've been having nightmares, though, and that they're quite terrible. Could you say more about them?",0,0,0,0,0,0,1,0,0,0,0,0,0,7,97
+My goodness. I can see why these would be so distressing. Tell me more about the feeling of being chased. What is that like?,0,0,0,0,0,0,1,0,1,0,0,1,0,9,97
+"That's an awful thought. If it could be anything, what do you think it might be?",0,0,0,0,0,0,1,0,0,0,0,1,0,11,97
+So it could be a few different things. And I suppose you could see it all in the theme of being chased.,0,0,0,0,0,0,0,1,0,0,0,0,0,13,97
+"I know you do. But before we go any further, I want to make sure you're on the same page with your doctor. Did they say anything about what might be causing this? Or did they just run some tests, and encourage you to seek therapy?",0,0,0,0,0,0,1,0,0,0,0,0,0,15,97
+I hear the urgency in that. Tell me more about your worries there - what would happen to the marriage if this continued?,0,0,0,1,0,0,1,0,0,0,0,0,0,17,97
+"It makes total sense that you'd feel that way. How has he been handling this, up to now? You said he's been supportive, but in what way?",0,0,0,0,0,0,1,0,0,0,0,1,0,19,97
+He's been so supportive. But I hear your worry about the burden this could place on him.,0,1,0,0,1,1,0,0,0,0,0,0,0,21,97
+"Well, would you be open to focusing on that today? If these nightmares are being driven by stress, then maybe we could look for ways to reduce that, either at work or at home.",0,0,0,0,0,0,0,0,0,1,0,0,0,23,97
+"So if you feel like you're losing control, what does that look like?",0,0,0,0,0,0,1,0,1,0,0,0,0,25,97
+"Right, because in the moment, you're not conscious! Your body just takes over. But during the day, do you feel the same? Or is this more of a nighttime problem?",0,0,0,0,0,0,0,1,0,0,0,0,0,27,97
+"So it's not just about the nightmares. It's about waiting for the next one to come, and the impact that's having on you.",0,0,0,1,0,0,0,0,0,0,0,0,0,29,97
+"I can see why you'd want that. But at the same time, I'd be careful about putting too much pressure on yourself. You've already been trying really hard to manage your anxiety, and from what I can tell, it's one of the biggest reasons why you've been so successful at work. Would you agree?",0,0,0,1,1,1,0,1,0,0,0,0,0,31,97
+"I want to pause on this idea that your body is betraying you. I know that we've been talking about how you can't control what's going on in your sleep, and that it's hard to accept. But I want to look at this differently. What if your body is trying very hard to tell you something?",0,0,0,0,1,0,0,1,0,0,0,0,0,33,97
+"Well, earlier on, you mentioned that you had a long history of running away from problems. Could you say more about that? Has it been especially hard to face them lately?",0,0,0,0,0,0,1,0,0,0,0,0,0,35,97
+"Okay, so this is different. It's something you can't run away from. What if we took a look at some of the things in your life that you have run away from?",0,0,0,0,1,0,0,1,0,0,0,0,0,37,97
+"Well, I'm not sure where it will lead, to be totally honest! But if you're open to taking a closer look, I'm on board to help. Would it be okay if we started with your relationship? I know your husband has been worried about you, so I could see how it might be difficult to share what's on your mind.",0,0,0,0,1,0,0,0,0,0,0,0,0,39,97
+So what have you found yourself holding back?,0,0,0,0,0,0,1,0,0,0,0,0,0,41,97
+"Could you try to give me an example of what that might look like? I mean, would you just tell him what you're going through, and see how he responds? Or would you ask him for something specific?",0,0,0,0,0,0,1,1,0,0,0,0,0,43,97
+What would change if you opened up to him more fully?,0,0,0,1,0,0,1,1,0,0,0,0,0,45,97
+Of course! What did you have in mind?,0,0,0,0,0,0,1,0,0,0,0,0,0,1,75
+You've tried a few things already. Say more about what this cycle looks like.,0,0,0,0,0,0,1,0,0,0,0,0,0,3,75
+"Right, so you're anticipating that it'll go badly, and then that exact thing happens. How often has that been the case, by the way? Are you really bombing these presentations, or are they turning out better than you expect?",0,0,0,0,0,0,0,1,0,0,0,0,0,5,75
+Say more about that. How do you get in your own way?,0,0,0,0,0,0,1,1,0,0,0,0,0,7,75
+"Well, it might be winning, but only because you're trying really hard to escape it. When you picture yourself getting up in front of the class, what are you most afraid will happen?",0,0,0,1,1,0,0,1,0,0,0,0,0,9,75
+"Ah, the judgement. And if they thought less of you, what would that say about you?",0,0,0,0,0,0,0,1,0,0,0,0,0,11,75
+"Right. You'd be proving them right! But when you think about your classmates, do you actually believe that they're thinking those things? Or is that coming from you?",0,0,0,0,0,0,0,1,0,0,0,0,0,13,75
+Let's try to sort that out a bit more. What evidence do you have that they might be judging you?,0,0,0,0,0,0,1,1,0,0,0,0,0,15,75
+"Okay, but as far as you can tell, you haven't actually heard them say so. Now, what about yourself? You've got this story in your head that you're not good enough, but where did it come from?",0,0,0,0,0,0,0,1,0,0,0,0,0,17,75
+"If you go and give a speech in class, and it doesn't go perfectly, what does that mean about you?",0,0,0,1,0,0,0,1,0,0,0,0,0,19,75
+"I see. So there's a standard here that you really can't afford to compromise on. But what if you did, just a little? What if you let yourself stumble, and didn't give yourself such a hard time about it?",0,0,1,0,0,0,0,1,0,0,0,0,0,21,75
+"Of course, we can switch topics. What's on your mind?",0,0,0,0,0,0,1,0,1,0,0,1,0,1,48
+"That sounds scary, and also exhausting! How long has this been happening?",0,0,0,0,0,0,1,0,0,0,0,1,0,3,48
+"So during the day, you're worried about your health, and then at night, you're dreaming about getting sick. Has anything actually seemed off, physically? Or are these fears mainly coming from your dreams?",0,1,0,0,1,0,1,1,0,0,0,0,0,5,48
+"Oh, wow. That's a major symptom, and totally understandable that it's been freaking you out. Did you make an appointment to see a doctor?",0,0,0,0,0,0,0,0,0,0,0,1,0,7,48
+Waiting for results can be so tough. Our minds go to the worst case scenarios.,0,0,0,0,0,0,0,0,0,0,0,1,0,9,48
+"When you try to push them aside, what happens? Do they get louder, or stronger?",0,0,0,1,0,0,1,1,0,0,0,0,0,11,48
+"Well, if your body is telling you that something is wrong, it makes sense that you'd be paying attention to that. What do you notice these thoughts saying to you?",0,0,0,0,0,0,1,0,0,0,0,1,0,13,48
+"Has it gotten any harder to function, given how much energy you're expending on them? For instance, when you're working, do you find them interfering with your performance?",0,0,0,1,0,0,1,0,0,0,0,0,0,15,48
+"I want to zoom in for a minute. Let's take a moment when you're really noticing these thoughts, and they're loud, and you're feeling overwhelmed. What's going on in that moment?",0,0,0,0,0,0,1,0,0,0,0,0,0,17,48
+"Is this something that's happening all day, or does it come and go?",0,0,0,0,0,0,1,0,0,0,0,0,0,19,48
+"This fear has really taken over your mind, and I want to make sure I understand it. At the very core, what's pushing this fear? What are you most afraid will happen?",0,0,0,0,0,0,1,0,0,0,0,0,0,21,48
+"A hundred percent, it would be! But it seems like you did everything you could to address this possibility. You went to the doctor, and they'll be able to tell you whether or not there's an issue. Beyond that, how much control do you have?",0,0,0,0,0,1,0,1,0,0,0,1,0,23,48
+"This is a tough situation, where you're at the mercy of the unknown. I want to return to this fear that you're seriously sick. What do you know that supports that?",0,0,0,0,0,0,0,1,0,0,0,1,0,25,48
+"Right, those symptoms are no joke, and I can see why they'd be worrying. But would it be fair to say that you're assuming they're going to lead to the worst possible outcome? Like, cancer, or another terminal illness?",0,0,0,0,0,0,0,1,0,0,0,1,0,27,48
+Let's zoom out a bit. How much time have you spent searching for what might be wrong?,0,0,0,0,0,0,1,1,0,0,0,0,0,29,48
+"So you'd say it's become a habit, basically?",0,0,0,0,0,0,1,0,0,0,0,0,0,31,48
+"So there's the impulse to look up these symptoms, and the idea that it might help you feel better, or more in control. But what actually happens when you do?",0,0,0,1,0,0,1,0,0,0,0,0,0,33,48
+"I can imagine. Have you ever resisted the urge to Google stuff? Or is that close to impossible, given how anxious you've been feeling?",0,1,0,0,0,0,0,1,0,0,0,0,0,35,48
+"So there's this itch, and it's incredibly hard to resist scratching it. But we've been talking about how looking things up can actually make things worse, and I wonder what you'd think about experimenting with the idea of not scratching the itch.",0,0,0,1,1,0,0,1,0,0,0,0,0,37,48
+"Of course, we can shift gears. What's just come to mind?",0,0,0,0,0,0,1,0,0,0,0,1,0,1,67
+"It's not unusual to feel out of it when you're dealing with health issues, and not sleeping well. But what's the impact been, socially? Has anyone noticed that you're withdrawing?",0,0,0,0,0,0,0,1,0,0,0,1,0,3,67
+"I think it's a good thing that you're noticing this shift. But I wonder if we can explore it a bit more, and figure out what might be happening.",0,0,0,0,0,1,1,0,0,0,0,1,0,5,67
+"Well, you've got a lot to be frustrated about, don't you? With the headaches, and the nausea, and the nightmares, and everything else. But even so, it seems like things have gotten worse, or heavier, over the past few weeks. Would you agree?",0,1,0,0,0,0,0,0,1,0,0,1,0,7,67
+What is it like to not feel like yourself?,0,1,0,0,0,0,1,0,1,0,0,0,0,9,67
+"I mean, you've been dealing with some pretty extreme circumstances. What with the health stuff, and the anxiety that came with it, has it been hard to stay in touch with that more energetic version of yourself?",0,0,0,0,1,0,0,1,0,0,0,1,0,11,67
+"There's this fog, and it's really getting in the way. I know you're longing to feel a bit more like you. Can you tell me about the version of you that you miss?",0,0,0,0,0,0,1,1,0,0,0,0,0,13,67
+"I get why you'd be frustrated! But as far as I know, that person hasn't gone anywhere. She's just been in survival mode for a little while, and it's taking a toll. Would it help if I gave you a bit more context on why that's happening? You mentioned that you might be burned out, and I think that's actually a possibility!",0,0,0,1,0,0,0,0,0,0,0,1,1,15,67
+"Let's think of it this way. If you hadn't been experiencing all this work stress, do you think your health worries would be affecting you as much as they are?",0,0,0,0,0,0,0,1,0,0,0,0,0,17,67
+"Right. The pressure has been coming at you from every angle, and it's been hard to escape. But for the moment, could we try focusing on work, and how that's been affecting you? It might give us a better understanding of what you need.",1,0,0,0,1,0,1,0,0,0,0,0,0,19,67
+What's it been like to see this part of you that was so ambitious and proud start to fade?,0,0,0,0,0,0,0,1,1,0,0,0,0,21,67
+"So it feels like you've been falling short, which really isn't a pleasant feeling. On the other hand, though, you've also been working super hard! Given that, could we try tweaking your perspective, just a bit? I know it might be a leap, but what if you looked at this period as a temporary dip, instead of a failure?",0,1,0,0,1,1,0,1,0,0,0,0,0,23,67
+"I think that question is really central. If we were to brainstorm, what would you imagine?",0,0,0,0,0,0,0,1,0,0,0,0,0,25,67
+"Well, they definitely might! You actually seemed pretty open to therapy, when we talked about it before. Was that just because you needed help with your health anxiety, or have you been thinking about it more broadly? It could be a great way to get some more support.",0,0,0,0,0,0,0,1,0,0,0,0,0,27,67
+"I can hear how much you want that. I want to pause here and reflect on how much you're juggling. You're managing health anxiety, work stress, and a whole lot else. So it's understandable that you've been feeling this way, and it makes a lot of sense that you're looking for some extra support. What would make it possible for you to reach out for help?",0,0,0,0,0,0,0,0,0,0,0,1,0,29,67
+"I mean, you can handle a lot! And you've been doing your best to power through this, even though you're not feeling like yourself. Would it be fair to say that you're putting some of your pride aside, and doing what you have to do?",0,0,0,0,0,1,0,1,0,0,0,0,0,31,67
+"You're taking really proactive steps to get back to that place! Both with therapy, and with the plan to talk to your boss. What would be most helpful to talk through here?",0,0,0,0,0,1,0,0,0,0,0,0,0,33,67
+"Okay. Well, if we think back to when you first started feeling this way, how long has it been? Could you even put a number on it?",0,0,0,0,0,0,1,0,0,0,0,0,0,35,67
+"Hi Ryan, welcome back. How have you been feeling since we last talked?",0,0,0,0,0,0,0,0,1,0,0,0,0,1,15
+What have the harder days been like?,0,0,0,0,0,0,1,0,0,0,0,0,0,3,15
+"I know you've been missing your old friends a lot, and that you haven't quite been able to replace them. Have you been able to stay in touch, at least, or has that been a struggle?",0,0,0,0,0,0,1,0,0,0,0,0,0,5,15
+"When you say it's not the same, tell me more about what you mean.",0,0,0,0,0,0,1,0,0,0,0,0,0,7,15
+"Right. You didn't just lose these people, you lost that feeling of ease and familiarity. Did they know you for a long time?",0,1,0,0,0,0,1,0,0,0,0,0,0,9,15
+"So it was a lot of history, a lot of shared experience. Have you ever had to start over like this before?",0,0,0,0,0,0,0,1,0,0,0,0,0,11,15
+"Totally. But when I asked you about those old friendships, you said they were forged in both good times and bad. Was there ever a rough patch where they really came through for you?",0,0,0,0,0,0,1,0,0,0,0,0,0,13,15
+"What did it mean to you back then, to have that support?",0,0,0,0,0,0,1,1,0,0,0,0,0,15,15
+"And now you're here, in this new city, feeling disconnected all over again. But I guess I'm wondering, how hard have you been trying to replace that safety net? Have you had much time, or energy, to invest in new connections?",0,1,0,0,1,0,0,1,0,0,0,0,0,17,15
+"Right, you said that you've been to some work events, and have been trying to connect with people at the gym. What's been daunting about those experiences?",0,0,0,0,0,0,1,0,0,0,0,0,0,19,15
+"I hear you. But I'm also sensing a bit of a double bind here. On one hand, you've been feeling super lonely, and you're longing for a sense of belonging. But on the other, you feel like you don't quite fit in! If you had to choose, which of those two feelings would you rather avoid?",0,0,0,0,1,0,0,1,0,0,0,0,0,21,15
+"Right, so I wonder if we could look at what's happened so far. You've tried to connect, but because of your worry about being awkward or intrusive, you've been holding back. Has it been worth it, to hold back?",0,0,0,1,1,0,1,1,0,0,0,0,0,23,15
+"That's a really important insight! And I know it can be hard to put yourself out there, especially when you're new in town. But what if you pushed yourself a bit more? Would you be open to trying that?",0,0,0,0,1,0,0,1,0,0,0,1,0,25,15
+One step at a time. So what's the next step?,0,0,0,0,0,0,0,0,0,0,1,0,0,27,15
+"Oh, I like that! You've already been making an effort to socialize, so this would be about pushing yourself a little harder, and staying engaged. If it goes well, what would you expect?",0,0,0,0,0,1,0,1,0,0,0,0,0,29,15
+"And on the flip side, what would you expect if it doesn't go well?",0,0,0,0,0,0,0,1,0,0,0,0,0,31,15
+"Exactly. You'd have to keep trying, because the alternative has just been so unpleasant. You've been stuck in your apartment, wishing you had someone to talk to!",0,0,0,1,0,0,0,0,0,0,0,0,0,33,15
+I do! Had you been hoping for something a bit more exciting? Or have you just had some time to reflect?,0,0,0,0,0,0,0,1,0,0,0,0,0,2,14
+What tended to come up in those thoughts?,0,0,0,0,0,0,1,0,0,0,0,0,0,4,14
+Was there one memory in particular that you kept coming back to?,0,0,0,0,0,0,1,0,0,0,0,0,0,6,14
+What a lovely memory. Tell me more about her.,0,0,0,0,0,0,1,0,0,0,0,0,0,8,14
+"So you were teasing her, but you admired this about her as well! Was she a big part of your life, before you moved?",0,0,0,0,1,0,1,0,0,0,0,0,0,10,14
+"Oh, I see. I know you've been feeling the weight of this move, and I hadn't realized how much it had changed things between you and Mary.",0,1,0,0,1,0,0,0,0,0,0,0,0,12,14
+"Wait, hold on a second. Has she passed?",0,0,0,0,0,0,1,0,0,0,0,0,0,14,14
+"Oh, Victor, I am so sorry, I can only imagine how much you miss her.",0,1,0,0,0,0,0,0,0,0,0,1,0,16,14
+"And that it's not just you who remembers! I know that you've been feeling pretty lonely, so I can see why you'd crave that kind of connection. Who else have you been able to talk to about Mary, since she died?",0,1,0,0,0,0,1,0,0,0,0,1,0,18,14
+It can be such a gift to have those conversations. When's the last time it happened?,0,0,0,0,0,0,1,0,0,0,0,1,0,20,14
+"I bet. And looking back on that moment, do you wish it happened more often? Or did it feel right to you, that you were only doing this every once in a while?",0,0,0,0,0,0,0,1,0,0,0,0,0,22,14
+"What a beautiful way to put it. These spaces where you can remember Mary in a way that feels natural and connected. You mentioned your granddaughter, so I'm wondering, who's around you these days?",0,0,0,0,0,0,1,0,0,0,0,0,0,24,14
+"Right. Out of curiosity, how did you end up there? Did you move after Mary passed, or was it more recent?",0,0,0,0,0,0,1,0,0,0,0,0,0,26,14
+Tell me more about that. I know you've had a lot of memories coming up today.,0,0,0,0,0,0,1,0,0,0,0,0,0,28,14
+"I can see why. It sounds like you were together for a long time, and that you made a lot of beautiful memories. Were you ever planning to stay in that house forever, or did you think you'd downsize at some point?",0,0,0,0,0,0,0,1,0,0,0,1,0,30,14
+"So when you moved, it felt like leaving her behind.",0,1,0,0,0,0,0,0,0,0,0,0,0,32,14
+"You're still having doubts, even now. Would you say that you regret the move?",0,0,0,0,0,0,0,1,0,0,0,0,0,34,14
+The feeling of home. That closeness to her that you had.,0,1,0,0,0,0,0,0,0,0,0,0,0,36,14
+"Well, you've kept those memories alive, even though you've had to carry them on your own. If you could share them more, do you think you'd feel a bit less alone?",0,0,0,1,0,1,0,1,0,0,0,0,0,38,14
+Tell me more about this spark! What are you missing?,0,0,0,0,0,0,1,1,0,0,0,0,0,2,16
+How long has it been since you last felt that way? Has this block been around for a while?,0,0,0,0,0,0,1,0,0,0,0,0,0,4,16
+I can see why that would be scary. What have you been painting?,0,0,0,0,0,0,1,0,0,0,0,1,0,6,16
+"And you want to get it back, if that's possible. Would you say painting is a big part of your life, or more of a hobby?",0,0,0,0,0,0,1,1,0,0,0,0,0,8,16
+"I mean, not long ago you were saying you felt lost, and here you are, feeling lost again. I wonder if this connects. What are you noticing about that?",0,0,0,0,0,0,1,1,0,0,0,0,0,10,16
+"That makes a lot of sense. Would you want to focus on untangling it, maybe? I know you wanted to carve out more space for self-expression, and to feel more at home in your own skin. If you could make progress there, it might help you with your art, too.",1,0,0,1,0,0,0,0,0,0,0,0,0,12,16
+I love this idea of space. How could you make more of it?,0,0,0,0,0,0,0,1,0,0,0,0,0,14,16
+"Well, that's another thing worth exploring! If the space around you isn't all that comfortable, that could definitely be having an effect. How would you go about changing it?",0,0,0,1,0,0,1,0,0,0,0,0,0,16,16
+"I love that. If you put yourself in that space, what would you be doing?",0,0,0,0,0,0,0,1,0,0,0,0,0,18,16
+"So you'd have more time to regroup, and to let your mind wander. I'd be curious to see if that helps you find your spark again!",0,0,0,0,0,0,0,1,0,0,0,0,0,20,16
+"That sounds like an excellent plan. Maybe we can pause here, and you can check back in with me after you've had some time to reflect and rearrange?",0,0,0,0,0,0,0,0,0,0,1,0,0,22,16
+"I'll look forward to hearing about it! You're really going the extra mile to get unstuck, and I hope it pays off. Until next time!",0,0,0,0,0,1,0,0,0,0,0,1,0,24,16
+I can hear the exhaustion in your voice. What happened today?,0,1,0,0,0,0,1,0,0,0,0,0,0,2,17
+"Oh, wow. Are you getting this kind of feedback a lot? Or was today a bit of an exception?",0,0,0,0,0,0,1,0,0,0,0,0,0,4,17
+Tell me a bit more about today. What did your manager say?,0,0,0,0,0,0,1,0,0,0,0,0,0,6,17
+"Yeah, that's quite annoying. How did you react?",0,0,0,0,0,0,1,0,0,0,0,1,0,8,17
+"I know that you've been feeling this way about your work in general. That it's so hard to feel like you're doing enough, and that you're not getting the feedback you need to make changes.",1,1,0,0,0,0,0,0,0,0,0,1,0,10,17
+"Okay, but what does good enough actually mean? If you could hit the bullseye, and deliver something that your manager was thrilled with, what would that look like?",0,0,0,0,0,0,1,1,0,0,0,0,0,12,17
+And I'm hearing that your manager hasn't been very clear about what nailed it might look like. Can we pause here to take stock of what you do know about what you're aiming for?,0,0,0,0,0,0,1,0,0,0,0,0,0,14,17
+"Right, that's a tough position to be in. But even so, it seems like you've got a pretty good handle on her standards. Have you ever managed to meet them? Or even exceed them?",0,0,0,0,0,1,1,0,0,0,0,1,0,16,17
+"Okay, so you've gotten some praise. And then some other times, maybe you don't. What do you make that mean?",0,0,0,0,0,0,0,1,0,0,0,0,0,18,17
+"I mean, you have been putting in a ton of effort. But when you do your best, and it still isn't enough, how do you tend to react? Is there a specific thought that comes to mind?",0,0,0,0,0,1,1,0,0,0,0,0,0,20,17
+"It makes sense that you'd start to question things! But I'm hearing a lot of self-doubt here. Let's slow down and take a closer look at the idea that your effort is wasted, or that you're not talented enough to keep up. What evidence do you have that this is true?",0,0,0,0,0,0,0,1,0,0,0,1,0,22,17
+"Exactly. It's like you're carrying them around while you're working, and they're making it hard for you to believe in yourself. But what if you tried to lighten that load a bit? If you could find a way to focus more on what you were doing well, how do you think that might affect your performance?",0,0,0,1,1,0,0,1,0,0,0,0,0,24,17
+"Okay, so how could you make that shift?",0,0,0,0,0,0,0,1,0,0,0,0,0,26,17
+"That all sounds smart, and really specific! How soon could you get started, do you think? Would it be doable to take stock of your wins tonight, for example?",0,0,0,0,0,0,0,0,0,0,1,0,0,28,17
+"That's a painful place to be. When you say you're stuck, what's keeping you there? Is it the move, or have you been thinking about something else?",0,0,0,0,0,0,1,1,0,0,0,1,0,2,13
+Can you share one of those memories with me?,0,0,0,0,0,0,1,0,0,0,0,0,0,4,13
+"Oh, wow. You're a veteran?",0,0,0,0,0,0,0,0,0,0,0,0,0,6,13
+I can only imagine. What has it been like to have these memories keep coming back?,0,0,0,0,0,0,1,0,0,0,0,1,0,8,13
+"Well, that's where I might be able to help. Not with the memories themselves, but with the way you're responding to them. Would you want to get into that, or would it be better to focus on how you've been feeling in the moment? We could take a step back from the past, and revisit the challenges you've been having with work.",0,0,0,0,0,0,1,0,1,0,0,0,0,10,13
+"Okay. I want to slow down and understand this moment where you get pulled back into the memory. You mentioned it might happen when you're watching TV, or making dinner. When it happens, what do you do?",0,0,0,0,0,0,1,0,0,0,0,0,0,12,13
+"I get that. You're trying to get your mind off it, but it keeps dragging you back. What if you tried to go with the flow, and just feel what you're feeling?",0,0,0,0,1,0,0,1,1,0,0,0,0,14,13
+What would worse look like?,0,0,0,0,0,0,1,0,0,0,0,0,0,16,13
+"Ah, okay. It must be terrifying, to get so absorbed in those details. Could you tell me more about what these flashbacks are like, when they happen? Are they just as vivid as the original experience?",0,1,0,0,0,0,1,0,0,0,0,0,0,18,13
+"So in that moment, your body is 100% reliving what happened. And you've avoided letting that happen, because you're worried it could overwhelm you.",0,1,0,1,1,0,0,0,0,0,0,0,0,20,13
+"I'm curious why you said that, actually. Would you say that it's hurting you, to keep the memories at bay?",0,0,0,0,0,0,1,1,0,0,0,0,0,22,13
+"Exactly. And there are a lot of ways to work with these memories, but the first step is to get comfortable with the idea of not avoiding them. What would it look like if you didn't push away?",0,0,0,0,0,0,0,1,0,1,0,0,0,24,13
+"I know it does. But honestly, the goal here wouldn't be to let yourself get swept away. It would be to get a bit more used to those intense feelings, so that they don't sock you in the gut every time. Does that make sense?",0,0,0,1,0,0,0,1,0,0,0,1,0,26,13
+"Right. So if you could imagine yourself trying that, what might it look like?",0,0,0,0,0,0,0,1,0,0,0,0,0,28,13
+"Exactly. I mean, does that feel like something you could picture yourself doing? It'd be a pretty major shift from what you've been doing so far.",0,0,0,0,1,0,0,1,1,0,0,0,0,30,13
+And what might that first step look like?,0,0,0,0,0,0,1,1,0,0,0,0,0,32,13
+"That's huge, Marcus. It won't be an easy practice, but if you can stick with it I think it could really change your relationship to these memories. When do you think you'll get the chance to try it out?",0,0,0,1,0,0,1,0,0,0,0,0,0,34,13
+"When you say you're lost, is it more that you don't know what you want, or that you're not sure how you come across to other people?",0,1,0,0,1,0,0,1,0,0,0,0,0,2,12
+"That's so frustrating, to feel like you're getting labeled or categorized before you even get the chance to speak. What box are people putting you in?",0,1,0,0,0,0,1,0,0,0,0,1,0,4,12
+"Got it. And who are these people, exactly? Have you been hearing this from your friends, or your family?",0,0,0,0,0,0,1,0,0,0,0,0,0,6,12
+What are some of the comments that have hurt?,0,0,0,0,0,0,1,0,0,0,0,0,0,8,12
+"I can see why. If you had to name one thing you'd like them to understand, what would it be?",0,0,0,0,0,0,0,1,0,0,0,0,0,10,12
+"I hear that. And I want to take a second to appreciate the fact that you are in a moment of exploration right now. That can be a really powerful place to be! If you could learn or explore anything about yourself, what would you want to discover?",0,0,0,0,0,1,0,1,0,0,0,1,0,12,12
+"It is! And I know your family has been pushing you to act a certain way, but what's felt authentic so far? Have there been any moments where you've been able to let your guard down, and just do what you wanted?",0,0,0,0,1,0,1,1,0,0,0,0,0,14,12
+I love that. What does 'more you' look like?,0,0,0,0,0,0,1,0,0,0,0,0,0,16,12
+"And does it ever feel the opposite? Like, heavy or constrained?",0,1,0,0,0,0,0,1,0,0,0,0,0,18,12
+"And you've been wearing that weight for a while now. As you think about this feeling of being trapped, what does it bring up for you?",0,0,0,0,1,0,0,0,1,0,0,0,0,20,12
+"I get that. If you could do one thing to make it easier, what would it be? You mentioned that you sometimes experiment with your style when you're alone, so maybe you'd want to take that a step further?",0,0,0,0,0,0,1,1,0,0,0,0,0,22,12
+"You've got this big sense of what feels more like you. And you're wanting to try it out - there's some trepidation, but also some excitement.",0,1,0,0,1,0,0,0,0,0,0,0,0,24,12
+"Well, what if you didn't take it all at once? You've been testing the waters by yourself, so why not keep doing that, and figure out when you might want to take things public? There wouldn't be any rush!",0,0,0,0,0,1,0,1,0,1,0,0,0,26,12
+"And it sounds like you really want to share it with someone. Just to get a bit of validation, or to hear what they think.",1,0,0,0,0,0,0,0,0,0,0,0,0,28,12
+Hi Akash. I've been thinking about you since our last conversation. How are you feeling today?,0,0,0,0,0,0,0,0,1,0,0,0,0,1,10
+What's on your mind about it?,0,0,0,0,0,0,1,0,0,0,0,0,0,3,10
+"Right, so there are a few unknowns here. Who's coming, just out of curiosity? Friends, family, or a mix?",0,0,0,0,0,0,1,0,0,0,0,0,0,5,10
+And how long has it been since you last saw them?,0,0,0,0,0,0,1,0,0,0,0,0,0,7,10
+"Okay, so for some of them, it might be a reunion. Are you nervous about how they'll react to you, or maybe about what they'll be like?",0,0,0,0,0,0,0,0,1,0,0,0,0,9,10
+Tell me more about that. What's been going better?,0,0,0,0,0,0,1,0,0,0,0,0,0,11,10
+"Well, that's awesome! Did you ever feel like you struggled with those things earlier on?",0,0,0,0,0,0,1,1,0,0,0,0,0,13,10
+"So things have shifted. You're a better version of yourself now, and you're worried that being around these people would bring back that old self.",0,1,0,1,1,1,0,0,0,0,0,0,0,15,10
+"What was he like? If you had to describe him in a few words, what would you pick?",0,0,0,0,0,0,1,0,0,0,0,0,0,17,10
+"A worried, hard-working, nice person. And what about now? How would you describe yourself these days?",0,0,0,0,0,0,1,0,1,0,0,0,0,19,10
+"That's a major change! How have you managed to pull it off? I know you mentioned exercise, but I'm guessing there have been other factors, too.",0,0,0,0,0,0,1,0,0,0,0,0,0,21,10
+"So there was a shift in how you were perceived, and that has allowed you to feel more confident in yourself.",0,1,0,0,0,1,0,0,0,0,0,0,0,23,10
+"Right, so these new people have been a huge source of support. How do you think they'd describe you, if they had to? Would they use words like attractive and cool or would they focus on other things?""",0,0,0,0,0,0,0,1,0,0,0,0,0,25,10
+"Ah, so even more evidence that you've changed! You were worried about what people thought, and now you're chill and easygoing. Let's go back to the upcoming party and the concerns you have. Where is your mind going when you think about it?",0,0,0,0,0,1,1,0,0,0,0,0,0,27,10
+"And how would you know if that was the case? Would they say something, or act a certain way?",0,0,0,0,0,0,0,1,0,0,0,0,0,29,10
+"I see. So let's say this does happen. You show up, and they don't make an effort to talk to you. What would that mean to you?",0,0,0,0,0,0,0,1,0,0,0,0,0,31,10
+"That's true! You're not the same as you were in high school, and you've got a lot to be proud of. That said, I know you're still uncomfortable with the idea of being looked down on. How do you think you'll handle it, if people seem dismissive?",0,0,0,0,1,1,0,1,0,0,0,0,0,33,10
+What do you think would upset you about it?,0,0,0,0,0,0,0,1,0,0,0,0,0,35,10
+"Well, what if you just didn't get into it with them? Maybe you'd feel a bit hurt, but you'd also be able to enjoy the party, and spend most of your time with people who treat you well. Would that be a realistic goal?",0,0,0,1,1,0,0,1,0,1,1,0,0,37,10
+"I know this is a bit of an odd question, but what would it mean to enjoy yourself at this party?",0,0,0,0,0,0,0,1,0,0,0,0,0,39,10
+"And you've got a solid plan for that, right? If anyone is acting too good to talk to you, you'll focus on the people who actually matter.",0,0,0,0,0,0,0,0,0,0,1,0,0,41,10
+"You're welcome! I know you were feeling a bit daunted by this party, but you've come up with a plan to have fun. As you look ahead, are there any other worries that come to mind?",0,1,0,0,0,1,0,1,0,0,0,0,0,43,10
+Another party! Tell me about this one.,0,0,0,0,0,0,1,0,0,0,0,0,0,2,11
+"Okay, so you're in a brand new environment, with people you haven't met before. Are you worried about making a good impression on them?",0,1,0,0,0,0,1,0,1,0,0,0,0,4,11
+I want to hear all about what you want them to see in you.,0,0,0,0,0,0,1,0,0,0,0,0,0,6,11
+"Even if they're a bit more on the social side, that doesn't mean they won't! Did you have a sense of how you might try to connect with them?",0,0,0,0,0,0,0,1,0,0,0,1,0,8,11
+So they're brand new people. What do you know about them?,0,0,0,0,0,0,1,0,0,0,0,0,0,10,11
+"Got it, so she knows them really well! Have you talked to her at all about how you're feeling, or about how this might go?",0,0,0,0,0,0,0,0,1,0,0,0,0,12,11
+"Great, so she thinks you'll get along well!",0,0,0,0,0,0,1,0,0,0,0,0,0,14,11
+"But you don't sound so sure. Do you think this is more about their personalities, or yours? Like, do you struggle with getting to know new people in general?",0,0,0,0,0,0,0,1,0,0,0,0,0,16,11
+"Okay, so it's not so much about these particular new people. This is about how you tend to feel in situations like this. Tell me some more about being shy.",0,0,0,0,0,0,1,0,0,0,0,0,0,18,11
+"But you're still a good person, right? Someone who your girlfriend really values, and wants her friends to meet?",0,0,1,0,0,1,0,0,0,0,0,1,0,20,11
+"So even though you're shy, Maya's friends could get a lot out of meeting you! I'm curious, what do you imagine they'll think of you?",0,0,0,0,1,0,0,1,0,0,0,0,0,22,11
+"Ah, so you're hoping to avoid that label. But if you had to pick another one, what would you want them to say? How would you want them to describe you?",0,0,0,0,0,0,0,1,0,0,0,0,0,24,11
+"Ah, I see. You want them to see you as a partner who makes Maya happy.",0,0,1,0,0,0,0,0,0,0,0,0,0,26,11
+Because you'll be a bit more reserved than usual?,0,0,0,1,0,0,0,0,0,0,0,0,0,28,11
+"I might be reading into this a bit, but could it be that you're worried that shyness will come off as disinterest?",0,1,0,1,1,0,0,1,0,0,0,0,0,30,11
+"Got it. You want to be fun, and you know that's not your strong suit. But what about the rest of it? Are you confident that you can be nice and sweet, even if you're not the life of the party?",0,0,0,0,0,1,0,1,0,0,0,0,0,31,11
+"Okay, so you know what you bring to the table, and you know that Maya loves it. I know you're feeling like you'll be boring at this party - but what do you imagine the people there will notice about you, if you're able to bring your full self?",0,1,0,0,0,1,0,1,0,0,0,0,0,33,11
+"Well, worst case scenario, that's not a bad thing to be!",0,0,0,0,0,0,0,0,0,0,0,1,0,35,11
+"And best case, they feel what Maya feels. That you're not just a nice guy, you're her nice guy.",0,0,0,0,0,0,0,0,0,0,0,0,0,37,11
