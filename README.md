@@ -64,8 +64,6 @@ This file takes the chatbot name and links it to an input and output dataset. Fo
 
 This file simulates the client from the HOPE_DATASET and creates the GPT patient that you want to interact with. To switch the patient that you want to replicate, switch this line to match the file of the conversation you want to replicate.
 
-Add api_key to api_key variable/
-
 file = f"BOLT/HOPE_Data_Examples/patient{csv_index}.csv"
 
 From there, just run this file and then you can simulate conversations as the code will prompt you to respond as therapist.
